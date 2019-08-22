@@ -1,0 +1,24 @@
+2019-08-21 10:52:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 13008 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-21 10:52:29 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-21 10:52:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-08-21 10:55:44 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 9276 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-21 10:55:44 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-21 10:55:44 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-08-21 10:56:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 6164 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-21 10:56:28 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-21 10:56:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-21 10:56:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.332 seconds (JVM running for 2.1)
+2019-08-21 10:56:56 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-21 19:12:36 [http-nio-127.0.0.1-8082-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()

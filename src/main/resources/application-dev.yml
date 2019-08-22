@@ -1,0 +1,4 @@
+server:
+  address: localhost  port: 8082
+chatbot_url: http://192.168.0.125:5005/webhooks/rest/webhook
+ip_address: 127.0.0.1

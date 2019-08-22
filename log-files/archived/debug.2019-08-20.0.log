@@ -1,0 +1,176 @@
+2019-08-20 13:07:52 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 1428 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 13:07:52 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 13:07:52 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 13:07:53 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.278 seconds (JVM running for 1.983)
+2019-08-20 13:08:10 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 13:08:10 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 13:12:23 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 13:12:23 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 18:28:16 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 5452 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:28:16 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:28:16 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:28:19 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 2.605 seconds (JVM running for 3.287)
+2019-08-20 18:29:48 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 12952 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:29:48 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:29:48 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:29:49 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.433 seconds (JVM running for 2.019)
+2019-08-20 18:46:35 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 10320 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:46:35 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:46:35 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:46:36 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.552 seconds (JVM running for 2.17)
+2019-08-20 18:46:47 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 18:46:47 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 18:53:36 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 10592 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:53:36 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:53:36 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:53:37 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.377 seconds (JVM running for 2.22)
+2019-08-20 18:53:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 8656 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:53:58 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:53:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:53:59 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.495 seconds (JVM running for 2.185)
+2019-08-20 18:54:07 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 18:54:08 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 18:54:42 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 888 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 18:54:42 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 18:54:42 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 18:54:43 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.409 seconds (JVM running for 2.099)
+2019-08-20 19:04:41 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 10732 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:04:41 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:04:41 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:04:42 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.48 seconds (JVM running for 2.156)
+2019-08-20 19:04:56 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:04:56 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 19:08:01 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 4904 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:08:01 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:08:01 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:08:03 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.672 seconds (JVM running for 2.275)
+2019-08-20 19:15:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 7324 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:15:58 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:15:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:16:00 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.633 seconds (JVM running for 2.29)
+2019-08-20 19:16:07 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 11656 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:16:07 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:16:07 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:16:08 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.445 seconds (JVM running for 2.037)
+2019-08-20 19:17:14 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 5148 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:17:14 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:17:14 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:17:15 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.404 seconds (JVM running for 1.981)
+2019-08-20 19:18:41 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:18:41 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 19:19:32 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 11864 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 19:19:32 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 19:19:32 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 19:19:33 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.338 seconds (JVM running for 2.095)
+2019-08-20 19:19:39 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:19:39 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 19:47:27 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:47:28 [http-nio-127.0.0.1-8082-exec-3] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 19:53:55 [http-nio-127.0.0.1-8082-exec-5] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:53:55 [http-nio-127.0.0.1-8082-exec-5] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 19:54:02 [http-nio-127.0.0.1-8082-exec-6] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 19:54:03 [http-nio-127.0.0.1-8082-exec-6] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 20:03:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 8388 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 20:03:58 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 20:03:58 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 20:03:59 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.392 seconds (JVM running for 1.995)
+2019-08-20 20:05:09 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 20:05:09 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-08-20 20:07:00 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 10536 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 20:07:00 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 20:07:00 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 20:07:01 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.512 seconds (JVM running for 2.088)
+2019-08-20 20:07:26 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 16372 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
+2019-08-20 20:07:26 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-20 20:07:26 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				The following profiles are active: dev
+2019-08-20 20:07:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.581 seconds (JVM running for 2.409)
+2019-08-20 20:07:33 [http-nio-127.0.0.1-8089-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-08-20 20:07:36 [http-nio-127.0.0.1-8089-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
