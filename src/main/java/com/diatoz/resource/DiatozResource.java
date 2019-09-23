@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.diatoz.botrequest.BotRequest;
 import com.diatoz.diatozwebsiteservice.DiatozWebsiteService;
 import com.diatoz.diatozwebsiteservice.DiatozWebsiteServiceImpl;
+import com.diatoz.models.bot_request_model.BotRequest;
 
 @RestController
 @RequestMapping("/api")
@@ -34,7 +34,7 @@ public class DiatozResource {
 	@PostMapping("/bot")
 	ResponseEntity<?> getData(@RequestBody BotRequest botRequest) throws URISyntaxException,Exception{
 		
-		logger.debug("Post-request mapped in getData()");
+		logger.debug("Post-request received");
 		
 		try {
 		result=diatozWebsiteService.getResult(botRequest);	
@@ -54,7 +54,7 @@ public class DiatozResource {
 			}
 		}
 		
-		logger.debug("Post-request from getData has been completed");
+		logger.debug("Post-request has been completed");
 		return new ResponseEntity<>(result,HttpStatus.ACCEPTED);
 	}
 }

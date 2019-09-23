@@ -1,11 +1,11 @@
-package com.diatoz.restexception;
+package com.diatoz.exception_handler;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
 @ControllerAdvice
-public class RestExceptionHandler extends ResponseEntityExceptionHandler{
+public class ExceptionHandler extends ResponseEntityExceptionHandler{
 
 	
 	@Value("${chatbot_url}")

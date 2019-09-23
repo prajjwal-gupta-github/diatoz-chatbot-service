@@ -11,12 +11,13 @@ import org.springframework.http.HttpMethod;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.diatoz.botrequest.BotRequest;
+import com.diatoz.models.bot_request_model.BotRequest;
 
 @Service
 public class DiatozWebsiteServiceImpl implements DiatozWebsiteService{
 	
 	private static final Logger logger = LoggerFactory.getLogger(DiatozWebsiteServiceImpl.class);
+	
 	
 	@Value("${chatbot_url}")
 	private String location;
@@ -27,14 +28,14 @@ public class DiatozWebsiteServiceImpl implements DiatozWebsiteService{
 	@Override
 	public Object getResult(BotRequest botRequest) throws URISyntaxException {
 		
-		
+		logger.info("processing request");
 		HttpEntity<BotRequest> requestEntity = new HttpEntity<>(botRequest);
 		
 		
 		URI url=new URI(location);
 		
 		Object result =restTemplate.exchange(url, HttpMethod.POST, requestEntity, Object.class).getBody();
-				//String result=restTemplate.postForObject(url, null, String.class);
+				
 		return result;
 	}
 }

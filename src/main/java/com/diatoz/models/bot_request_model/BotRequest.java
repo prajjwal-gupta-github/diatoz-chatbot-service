@@ -1,4 +1,4 @@
-package com.diatoz.botrequest;
+package com.diatoz.models.bot_request_model;
 
 
 public class BotRequest {
