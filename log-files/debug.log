@@ -1,24 +1,88 @@
-2019-08-21 10:52:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
-				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 13008 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
-2019-08-21 10:52:29 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+2019-09-23 13:23:04 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 14788 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:23:04 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
 				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
-2019-08-21 10:52:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+2019-09-23 13:23:04 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
 				No active profile set, falling back to default profiles: default
-2019-08-21 10:55:44 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
-				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 9276 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
-2019-08-21 10:55:44 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+2019-09-23 13:23:06 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 3.869 seconds (JVM running for 5.877)
+2019-09-23 13:24:47 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:24:48 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-09-23 13:27:26 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 8224 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:27:26 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
 				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
-2019-08-21 10:55:44 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+2019-09-23 13:27:26 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
 				No active profile set, falling back to default profiles: default
-2019-08-21 10:56:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
-				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 6164 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-rest-resource)
-2019-08-21 10:56:28 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+2019-09-23 13:27:27 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.375 seconds (JVM running for 1.929)
+2019-09-23 13:27:32 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:27:53 [http-nio-127.0.0.1-8080-exec-2] INFO  c.d.d.DiatozWebsiteServiceImpl -
+				Modifying the Exception message because it contains chatbot url
+2019-09-23 13:28:49 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 15800 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:28:49 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
 				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
-2019-08-21 10:56:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
-				The following profiles are active: dev
-2019-08-21 10:56:29 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
-				Started DiatozChatbotRestResourceApplication in 1.332 seconds (JVM running for 2.1)
-2019-08-21 10:56:56 [http-nio-127.0.0.1-8082-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+2019-09-23 13:28:49 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-09-23 13:28:50 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.375 seconds (JVM running for 2.044)
+2019-09-23 13:29:13 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
 				Post-request mapped in getData()
-2019-08-21 19:12:36 [http-nio-127.0.0.1-8082-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+2019-09-23 13:32:27 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 5684 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:32:27 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 13:32:27 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-09-23 13:32:28 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.351 seconds (JVM running for 2.155)
+2019-09-23 13:32:34 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
 				Post-request mapped in getData()
+2019-09-23 13:33:56 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 14816 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:33:56 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 13:33:56 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-09-23 13:33:57 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.392 seconds (JVM running for 2.038)
+2019-09-23 13:34:04 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:34:25 [http-nio-127.0.0.1-8080-exec-1] INFO  c.d.d.DiatozWebsiteServiceImpl -
+				Modifying the Exception message because it contains chatbot url
+2019-09-23 13:36:25 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 13028 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:36:25 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 13:36:25 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-09-23 13:36:26 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.389 seconds (JVM running for 2.011)
+2019-09-23 13:36:32 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:36:53 [http-nio-127.0.0.1-8080-exec-1] INFO  c.d.d.DiatozWebsiteServiceImpl -
+				Modifying the Exception message because it contains chatbot url
+2019-09-23 13:37:08 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Starting DiatozChatbotRestResourceApplication on DESKTOP-GKSS11P with PID 16376 (D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service\target\classes started by Prajjwal in D:\JEE_Projects\spring\Spring_WorkSpace\diatoz-chatbot-service)
+2019-09-23 13:37:08 [main] DEBUG c.d.DiatozChatbotRestResourceApplication -
+				Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 13:37:08 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				No active profile set, falling back to default profiles: default
+2019-09-23 13:37:09 [main] INFO  c.d.DiatozChatbotRestResourceApplication -
+				Started DiatozChatbotRestResourceApplication in 1.418 seconds (JVM running for 1.995)
+2019-09-23 13:37:23 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:37:44 [http-nio-127.0.0.1-8080-exec-1] INFO  c.d.d.DiatozWebsiteServiceImpl -
+				Modifying the Exception message because it contains chatbot url
+2019-09-23 13:38:33 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:38:34 [http-nio-127.0.0.1-8080-exec-2] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed
+2019-09-23 13:40:21 [http-nio-127.0.0.1-8080-exec-4] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request mapped in getData()
+2019-09-23 13:40:21 [http-nio-127.0.0.1-8080-exec-4] DEBUG c.d.d.DiatozWebsiteServiceImpl -
+				Post-request from getData has been completed

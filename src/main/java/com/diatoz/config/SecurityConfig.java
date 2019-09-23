@@ -14,11 +14,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	@Value("${ip_address}")
 	private String ip_address;
 	
-
-	
-
-
-	
 	@Override
 	protected void configure (HttpSecurity http) throws Exception {
 		http
