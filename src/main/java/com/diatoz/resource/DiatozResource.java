@@ -41,7 +41,7 @@ public class DiatozResource {
 		}
 		
 		
-		//Modifying the Exception message because if it contains chatbot url
+		//Modifying the Exception message if it contains chatbot url
 		catch(Exception e) {
 			if(e.getMessage().contains(chatbotUrl)) {
 				
